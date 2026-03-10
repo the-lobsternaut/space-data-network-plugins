@@ -11,7 +11,6 @@ Each plugin is a standalone C++ WASM module that converts external data sources 
 |--------|--------|-------------|--------|
 | [space-weather-forecast](./plugins/space-weather-forecast/) | SPW | NOAA SWPC 45-day forecast | ✅ Working |
 | [sdn-starlink](./plugins/sdn-starlink/) | OEM | Starlink ephemeris | 🔧 In progress |
-| [starlink-oem-wasm](./plugins/starlink-oem-wasm/) | OEM | Starlink → CCSDS OEM | 🔧 In progress |
 
 ## Architecture
 
