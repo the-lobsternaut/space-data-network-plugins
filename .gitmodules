@@ -13,3 +13,6 @@
 [submodule "od-sdn-plugin"]
 	path = od-sdn-plugin
 	url = https://github.com/the-lobsternaut/od-sdn-plugin.git
+[submodule "numerical-propagator-sdn-plugin"]
+	path = numerical-propagator-sdn-plugin
+	url = https://github.com/the-lobsternaut/numerical-propagator-sdn-plugin.git
