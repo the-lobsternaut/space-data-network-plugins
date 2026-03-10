@@ -7,3 +7,9 @@
 [submodule "conjunction-assessment-sdn-plugin"]
 	path = conjunction-assessment-sdn-plugin
 	url = https://github.com/the-lobsternaut/conjunction-assessment-sdn-plugin.git
+[submodule "sgp4-propagator-sdn-plugin"]
+	path = sgp4-propagator-sdn-plugin
+	url = https://github.com/the-lobsternaut/sgp4-propagator-sdn-plugin.git
+[submodule "od-sdn-plugin"]
+	path = od-sdn-plugin
+	url = https://github.com/the-lobsternaut/od-sdn-plugin.git
