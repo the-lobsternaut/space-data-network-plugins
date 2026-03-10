@@ -1,0 +1,8 @@
+{
+  "name": "space-data-network-plugins",
+  "private": true,
+  "description": "Data source plugins for Space Data Network",
+  "workspaces": [
+    "plugins/*"
+  ]
+}

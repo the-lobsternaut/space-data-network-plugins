@@ -1,0 +1,9 @@
+[submodule "plugins/space-weather-forecast"]
+	path = plugins/space-weather-forecast
+	url = https://github.com/the-lobsternaut/space-weather-forecast-sdn-plugin.git
+[submodule "plugins/sdn-starlink"]
+	path = plugins/sdn-starlink
+	url = https://github.com/the-lobsternaut/sdn-starlink-plugin.git
+[submodule "plugins/starlink-oem-wasm"]
+	path = plugins/starlink-oem-wasm
+	url = https://github.com/the-lobsternaut/starlink-oem-wasm-plugin.git
