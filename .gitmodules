@@ -16,3 +16,6 @@
 [submodule "numerical-propagator-sdn-plugin"]
 	path = numerical-propagator-sdn-plugin
 	url = https://github.com/the-lobsternaut/numerical-propagator-sdn-plugin.git
+[submodule "plugins/atmospheric-wind"]
+	path = plugins/atmospheric-wind
+	url = https://github.com/the-lobsternaut/atmospheric-wind-sdn-plugin.git
