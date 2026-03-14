@@ -19,3 +19,6 @@
 [submodule "plugins/atmospheric-wind"]
 	path = plugins/atmospheric-wind
 	url = https://github.com/the-lobsternaut/atmospheric-wind-sdn-plugin.git
+[submodule "plugins/gps-jamming-detection"]
+	path = plugins/gps-jamming-detection
+	url = https://github.com/the-lobsternaut/gps-jamming-detection-sdn-plugin.git
