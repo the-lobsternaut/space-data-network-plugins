@@ -22,3 +22,6 @@
 [submodule "plugins/gps-jamming-detection"]
 	path = plugins/gps-jamming-detection
 	url = https://github.com/the-lobsternaut/gps-jamming-detection-sdn-plugin.git
+[submodule "plugins/hpop"]
+	path = plugins/hpop
+	url = https://github.com/the-lobsternaut/hpop-sdn-plugin.git
