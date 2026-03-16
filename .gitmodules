@@ -154,3 +154,6 @@
 [submodule "plugins/tornado"]
 	path = plugins/tornado
 	url = https://github.com/the-lobsternaut/tornado-sdn-plugin.git
+[submodule "plugins/nexrad"]
+	path = plugins/nexrad
+	url = https://github.com/the-lobsternaut/nexrad-sdn-plugin.git
