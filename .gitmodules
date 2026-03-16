@@ -157,3 +157,6 @@
 [submodule "plugins/nexrad"]
 	path = plugins/nexrad
 	url = https://github.com/the-lobsternaut/nexrad-sdn-plugin.git
+[submodule "plugins/gencast"]
+	path = plugins/gencast
+	url = https://github.com/the-lobsternaut/gencast-sdn-plugin.git
