@@ -160,3 +160,6 @@
 [submodule "plugins/gencast"]
 	path = plugins/gencast
 	url = https://github.com/the-lobsternaut/gencast-sdn-plugin.git
+[submodule "plugins/launch-predict"]
+	path = plugins/launch-predict
+	url = https://github.com/the-lobsternaut/launch-predict-sdn-plugin.git
