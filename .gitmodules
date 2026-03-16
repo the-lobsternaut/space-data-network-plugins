@@ -85,3 +85,63 @@
 [submodule "plugins/sgp4-propagator"]
 	path = plugins/sgp4-propagator
 	url = https://github.com/the-lobsternaut/sgp4-propagator-sdn-plugin.git
+[submodule "plugins/gdelt"]
+	path = plugins/gdelt
+	url = https://github.com/the-lobsternaut/gdelt-sdn-plugin.git
+[submodule "plugins/firms"]
+	path = plugins/firms
+	url = https://github.com/the-lobsternaut/firms-sdn-plugin.git
+[submodule "plugins/safecast"]
+	path = plugins/safecast
+	url = https://github.com/the-lobsternaut/safecast-sdn-plugin.git
+[submodule "plugins/acled"]
+	path = plugins/acled
+	url = https://github.com/the-lobsternaut/acled-sdn-plugin.git
+[submodule "plugins/reliefweb"]
+	path = plugins/reliefweb
+	url = https://github.com/the-lobsternaut/reliefweb-sdn-plugin.git
+[submodule "plugins/who_health"]
+	path = plugins/who_health
+	url = https://github.com/the-lobsternaut/who-health-sdn-plugin.git
+[submodule "plugins/ofac"]
+	path = plugins/ofac
+	url = https://github.com/the-lobsternaut/ofac-sdn-plugin.git
+[submodule "plugins/opensanctions"]
+	path = plugins/opensanctions
+	url = https://github.com/the-lobsternaut/opensanctions-sdn-plugin.git
+[submodule "plugins/fred"]
+	path = plugins/fred
+	url = https://github.com/the-lobsternaut/fred-sdn-plugin.git
+[submodule "plugins/treasury"]
+	path = plugins/treasury
+	url = https://github.com/the-lobsternaut/treasury-sdn-plugin.git
+[submodule "plugins/bls"]
+	path = plugins/bls
+	url = https://github.com/the-lobsternaut/bls-sdn-plugin.git
+[submodule "plugins/eia"]
+	path = plugins/eia
+	url = https://github.com/the-lobsternaut/eia-sdn-plugin.git
+[submodule "plugins/gscpi"]
+	path = plugins/gscpi
+	url = https://github.com/the-lobsternaut/gscpi-sdn-plugin.git
+[submodule "plugins/usaspending"]
+	path = plugins/usaspending
+	url = https://github.com/the-lobsternaut/usaspending-sdn-plugin.git
+[submodule "plugins/comtrade"]
+	path = plugins/comtrade
+	url = https://github.com/the-lobsternaut/comtrade-sdn-plugin.git
+[submodule "plugins/nws"]
+	path = plugins/nws
+	url = https://github.com/the-lobsternaut/nws-sdn-plugin.git
+[submodule "plugins/radnet"]
+	path = plugins/radnet
+	url = https://github.com/the-lobsternaut/radnet-sdn-plugin.git
+[submodule "plugins/patents"]
+	path = plugins/patents
+	url = https://github.com/the-lobsternaut/patents-sdn-plugin.git
+[submodule "plugins/kiwisdr"]
+	path = plugins/kiwisdr
+	url = https://github.com/the-lobsternaut/kiwisdr-sdn-plugin.git
+[submodule "plugins/yfinance"]
+	path = plugins/yfinance
+	url = https://github.com/the-lobsternaut/yfinance-sdn-plugin.git
