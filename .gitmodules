@@ -163,3 +163,6 @@
 [submodule "plugins/launch-predict"]
 	path = plugins/launch-predict
 	url = https://github.com/the-lobsternaut/launch-predict-sdn-plugin.git
+[submodule "plugins/autoresearch-astro"]
+	path = plugins/autoresearch-astro
+	url = https://github.com/the-lobsternaut/autoresearch-astro-sdn-plugin.git
