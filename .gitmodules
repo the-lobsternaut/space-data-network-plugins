@@ -73,3 +73,15 @@
 [submodule "plugins/webarchive"]
 	path = plugins/webarchive
 	url = https://github.com/the-lobsternaut/webarchive-sdn-plugin.git
+[submodule "plugins/conjunction-assessment"]
+	path = plugins/conjunction-assessment
+	url = https://github.com/the-lobsternaut/conjunction-assessment-sdn-plugin.git
+[submodule "plugins/numerical-propagator"]
+	path = plugins/numerical-propagator
+	url = https://github.com/the-lobsternaut/numerical-propagator-sdn-plugin.git
+[submodule "plugins/od"]
+	path = plugins/od
+	url = https://github.com/the-lobsternaut/od-sdn-plugin.git
+[submodule "plugins/sgp4-propagator"]
+	path = plugins/sgp4-propagator
+	url = https://github.com/the-lobsternaut/sgp4-propagator-sdn-plugin.git
