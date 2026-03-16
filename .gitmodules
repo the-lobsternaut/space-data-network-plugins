@@ -13,3 +13,63 @@
 [submodule "plugins/hpop"]
 	path = plugins/hpop
 	url = https://github.com/the-lobsternaut/hpop-sdn-plugin.git
+[submodule "plugins/adsb"]
+	path = plugins/adsb
+	url = https://github.com/the-lobsternaut/adsb-sdn-plugin.git
+[submodule "plugins/ais"]
+	path = plugins/ais
+	url = https://github.com/the-lobsternaut/ais-sdn-plugin.git
+[submodule "plugins/atmosphere"]
+	path = plugins/atmosphere
+	url = https://github.com/the-lobsternaut/atmosphere-sdn-plugin.git
+[submodule "plugins/bolide"]
+	path = plugins/bolide
+	url = https://github.com/the-lobsternaut/bolide-sdn-plugin.git
+[submodule "plugins/cislunar"]
+	path = plugins/cislunar
+	url = https://github.com/the-lobsternaut/cislunar-sdn-plugin.git
+[submodule "plugins/dimos-bridge"]
+	path = plugins/dimos-bridge
+	url = https://github.com/the-lobsternaut/dimos-bridge-sdn-plugin.git
+[submodule "plugins/iridium"]
+	path = plugins/iridium
+	url = https://github.com/the-lobsternaut/iridium-sdn-plugin.git
+[submodule "plugins/linkanalysis"]
+	path = plugins/linkanalysis
+	url = https://github.com/the-lobsternaut/linkanalysis-sdn-plugin.git
+[submodule "plugins/maneuver"]
+	path = plugins/maneuver
+	url = https://github.com/the-lobsternaut/maneuver-sdn-plugin.git
+[submodule "plugins/mediameta"]
+	path = plugins/mediameta
+	url = https://github.com/the-lobsternaut/mediameta-sdn-plugin.git
+[submodule "plugins/missile"]
+	path = plugins/missile
+	url = https://github.com/the-lobsternaut/missile-sdn-plugin.git
+[submodule "plugins/ml-inference"]
+	path = plugins/ml-inference
+	url = https://github.com/the-lobsternaut/ml-inference-sdn-plugin.git
+[submodule "plugins/ml-train"]
+	path = plugins/ml-train
+	url = https://github.com/the-lobsternaut/ml-train-sdn-plugin.git
+[submodule "plugins/netrecon"]
+	path = plugins/netrecon
+	url = https://github.com/the-lobsternaut/netrecon-sdn-plugin.git
+[submodule "plugins/satfoot"]
+	path = plugins/satfoot
+	url = https://github.com/the-lobsternaut/satfoot-sdn-plugin.git
+[submodule "plugins/satobs"]
+	path = plugins/satobs
+	url = https://github.com/the-lobsternaut/satobs-sdn-plugin.git
+[submodule "plugins/small-bodies"]
+	path = plugins/small-bodies
+	url = https://github.com/the-lobsternaut/small-bodies-sdn-plugin.git
+[submodule "plugins/socmint"]
+	path = plugins/socmint
+	url = https://github.com/the-lobsternaut/socmint-sdn-plugin.git
+[submodule "plugins/starfield"]
+	path = plugins/starfield
+	url = https://github.com/the-lobsternaut/starfield-sdn-plugin.git
+[submodule "plugins/webarchive"]
+	path = plugins/webarchive
+	url = https://github.com/the-lobsternaut/webarchive-sdn-plugin.git
