@@ -166,3 +166,6 @@
 [submodule "plugins/autoresearch-astro"]
 	path = plugins/autoresearch-astro
 	url = https://github.com/the-lobsternaut/autoresearch-astro-sdn-plugin.git
+[submodule "plugins/flipper"]
+	path = plugins/flipper
+	url = https://github.com/the-lobsternaut/flipper-sdn-plugin.git
