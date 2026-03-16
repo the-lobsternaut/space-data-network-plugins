@@ -151,3 +151,6 @@
 [submodule "plugins/photogrammetry"]
 	path = plugins/photogrammetry
 	url = https://github.com/the-lobsternaut/photogrammetry-sdn-plugin.git
+[submodule "plugins/tornado"]
+	path = plugins/tornado
+	url = https://github.com/the-lobsternaut/tornado-sdn-plugin.git
