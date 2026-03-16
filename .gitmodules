@@ -148,3 +148,6 @@
 [submodule "plugins/fcc"]
 	path = plugins/fcc
 	url = https://github.com/the-lobsternaut/fcc-sdn-plugin.git
+[submodule "plugins/photogrammetry"]
+	path = plugins/photogrammetry
+	url = https://github.com/the-lobsternaut/photogrammetry-sdn-plugin.git
