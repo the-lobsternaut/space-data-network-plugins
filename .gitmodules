@@ -145,3 +145,6 @@
 [submodule "plugins/yfinance"]
 	path = plugins/yfinance
 	url = https://github.com/the-lobsternaut/yfinance-sdn-plugin.git
+[submodule "plugins/fcc"]
+	path = plugins/fcc
+	url = https://github.com/the-lobsternaut/fcc-sdn-plugin.git
