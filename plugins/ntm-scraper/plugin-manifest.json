@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "pluginId": "ntm-scraper",
+  "pluginType": "parser",
+  "vendorId": "the-lobsternaut",
+  "name": "NTM Scraper Plugin",
+  "version": "0.1.0",
+  "description": "Parse NGA HYDROLANT/HYDROPAC broadcast warnings into structured maritime notices with exclusion zone geometry and hazard classification.",
+  "license": "MIT",
+  "tags": ["maritime", "ntm", "hydrolant", "hydropac", "nga", "exclusion-zone", "navigation"],
+  "capabilities": { "parse": true, "convert": true, "process": true, "streaming": false },
+  "ports": {
+    "inputs": [{ "name": "ntm_text", "description": "Raw NGA broadcast warning text", "schema": "NTMText", "required": true }],
+    "outputs": [{ "name": "maritime_notices", "description": "Structured maritime notices with geometry and classification", "schema": "MaritimeNotice" }]
+  },
+  "dependencies": {},
+  "wasm": { "exportName": "NTM_SCRAPER_WASM", "initialMemoryMB": 16, "maxMemoryMB": 64 }
+}

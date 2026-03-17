@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "pluginId": "da-asat-predictor",
+  "pluginType": "predictor",
+  "vendorId": "the-lobsternaut",
+  "name": "DA-ASAT Predictor Plugin",
+  "version": "0.1.0",
+  "description": "Direct Ascent Anti-Satellite weapon engagement zone prediction — computes intercept trajectories, launch windows, and reachable satellite envelopes from ground-based launch sites.",
+  "license": "MIT",
+  "tags": ["asat", "engagement", "intercept", "satellite", "missile-defense", "da-asat"],
+  "capabilities": { "parse": true, "convert": false, "process": true, "streaming": false },
+  "ports": {
+    "inputs": [
+      { "name": "target_tle", "description": "Target satellite TLE", "schema": "TLE", "required": true },
+      { "name": "launch_config", "description": "Launch site and interceptor configuration", "schema": "LaunchConfig", "required": true }
+    ],
+    "outputs": [
+      { "name": "engagement_results", "description": "Intercept trajectories and engagement zones", "schema": "EngagementResult" }
+    ]
+  },
+  "dependencies": {},
+  "wasm": { "exportName": "DA_ASAT_WASM", "initialMemoryMB": 32, "maxMemoryMB": 256 }
+}
