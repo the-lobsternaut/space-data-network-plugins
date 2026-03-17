@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "pluginId": "notam-archive",
+  "pluginType": "archive",
+  "vendorId": "the-lobsternaut",
+  "name": "NOTAM Historical Archive",
+  "version": "0.1.0",
+  "description": "Historical NOTAM/TFR archive with temporal queries, pattern change detection, launch lead time tracking, and statistical analysis by site, vehicle, and orbit type.",
+  "license": "MIT",
+  "tags": ["notam", "tfr", "archive", "history", "launch", "statistics", "lead-time"],
+  "capabilities": { "parse": true, "convert": false, "process": true, "streaming": false },
+  "ports": {
+    "inputs": [
+      { "name": "notam_data", "description": "Parsed NOTAM records", "schema": "NOTAM", "required": true }
+    ],
+    "outputs": [
+      { "name": "archive_query", "description": "Query results from archive", "schema": "ArchiveResult" },
+      { "name": "statistics", "description": "Statistical analysis results", "schema": "Statistics" }
+    ]
+  },
+  "dependencies": {},
+  "wasm": { "exportName": "NOTAM_ARCHIVE_WASM", "initialMemoryMB": 16, "maxMemoryMB": 128 }
+}
