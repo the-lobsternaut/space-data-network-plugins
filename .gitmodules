@@ -172,3 +172,24 @@
 [submodule "plugins/stereo-wind"]
 	path = plugins/stereo-wind
 	url = https://github.com/the-lobsternaut/stereo-wind-sdn-plugin.git
+[submodule "plugins/ascent-reconstruct"]
+	path = plugins/ascent-reconstruct
+	url = https://github.com/the-lobsternaut/ascent-reconstruct-sdn-plugin.git
+[submodule "plugins/da-asat-predictor"]
+	path = plugins/da-asat-predictor
+	url = https://github.com/the-lobsternaut/da-asat-predictor-sdn-plugin.git
+[submodule "plugins/domain-awareness-pipeline"]
+	path = plugins/domain-awareness-pipeline
+	url = https://github.com/the-lobsternaut/domain-awareness-pipeline-sdn-plugin.git
+[submodule "plugins/drama"]
+	path = plugins/drama
+	url = https://github.com/the-lobsternaut/drama-sdn-plugin.git
+[submodule "plugins/exclusion-zone-tle-correlator"]
+	path = plugins/exclusion-zone-tle-correlator
+	url = https://github.com/the-lobsternaut/exclusion-zone-tle-correlator-sdn-plugin.git
+[submodule "plugins/notam-archive"]
+	path = plugins/notam-archive
+	url = https://github.com/the-lobsternaut/notam-archive-sdn-plugin.git
+[submodule "plugins/ntm-scraper"]
+	path = plugins/ntm-scraper
+	url = https://github.com/the-lobsternaut/ntm-scraper-sdn-plugin.git
